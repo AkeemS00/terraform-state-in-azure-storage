@@ -6,7 +6,7 @@ Microsoft tutorial on how to store Terraform state within Azure storage.
 https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform?tabs=azure-cli
 
 Tools used:
-Terraform
-VS Code
-Microsoft Azure
-Azure CLI
+-Terraform
+-VS Code
+-Microsoft Azure
+-Azure CLI
